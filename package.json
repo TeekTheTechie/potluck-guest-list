@@ -1,0 +1,8 @@
+{
+  "name": "ttt-js-potluck-dish-assignment",
+  "version": "1.0.0",
+  "description": "Javascript project to create a potluck guest list and assign a dish",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": []
+}
